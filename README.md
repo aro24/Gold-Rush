@@ -1,2 +1,2 @@
-# D2
-CS1632 Deliverable 2 Repository
+# Gold Rush
+This is a small Ruby project using SimpleCov and Minitest
